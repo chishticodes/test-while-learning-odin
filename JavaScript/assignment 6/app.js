@@ -18,3 +18,4 @@ for (let i = 0; i<=friends.length;i++){
         sentence+=`${friends[i]}, `
     }
 }
+
