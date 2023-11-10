@@ -1,3 +1,4 @@
+// a program that search an array of string contacts to find the contact number using for...of loop
 const contacts = [
     "Chris:2232322",
     "Sarah:3453456",
